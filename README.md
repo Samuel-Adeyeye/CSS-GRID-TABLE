@@ -2,7 +2,7 @@
 This project represents a pseudo periodic table built using CSS Grid. It provides a visually appealing and interactive representation of various elements with their corresponding titles and descriptions.
 
 ### Demo
-A live demo of the periodic table can be found [here](css-grid-table.samueladeyeye20.repl.co).
+A live demo of the periodic table can be found [here](https://css-grid-table.samueladeyeye20.repl.co/).
 
 ### Features
 - Responsive and visually appealing pseudo periodic table layout.
